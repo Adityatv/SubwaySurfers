@@ -176,4 +176,4 @@ PokiSDK.prototype.customEvent= function() {
   consoleLog("--fx--PokiSDK--customEvent--");
 }
 
-PokiSDK= new PokiSDK();
+PokiSDK= new PokiSDK(); 
